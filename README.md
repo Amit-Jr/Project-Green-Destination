@@ -5,7 +5,8 @@ This repository contains code and resources for conducting analysis on employee 
 
 **I completed this analysis as part of my 1 month internship at Unified Mentor. I was asked to analyze the employee attrition data &amp; come up with meaningful insights.**
 
-[Tableau Dashboard](https://public.tableau.com/authoring/GreenResination/Dashboard#1)
+[Tableau Dashboard]
+![Screenshot 2024-10-01 115636](https://github.com/user-attachments/assets/ebda8e2c-e163-4628-b825-c7ccc9849db7)
 
 ###  Data Sources
 
